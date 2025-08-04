@@ -39,7 +39,7 @@
 
 - **React** – For building the user interface
 - **CSS** – For layout and styling
-- **Vite / CRA** – Depending on how the app was bootstrapped
+- **CRA**
 
 ---
 
